@@ -3,6 +3,7 @@
 //
 
 #include <iostream>
+#include <vector>
 using namespace std;
 
 template<typename T>
@@ -125,6 +126,59 @@ public:
         }
     }
 
+    void reverse() {
+        Nodo<T>* prev = nullptr;
+        Nodo<T>* current = head;
+        Nodo<T>* next = nullptr;
+
+        while (current != nullptr) {
+            next = current->siguiente;
+            current->siguiente = prev;
+            prev = current;
+            current = next;
+        }
+        head = prev;
+    }
+
+    List<T> intersect(const List<T>& list1, const List<T>& list2) {
+        List<T> result;
+        Nodo<T>* ptr1 = list1.head;
+        Nodo<T>* ptr2 = list2.head;
+
+        while (ptr1 != nullptr && ptr2 != nullptr) {
+            if (ptr1->dato == ptr2->dato) {
+                result.push_back(ptr1->dato);
+                ptr1 = ptr1->siguiente;
+                ptr2 = ptr2->siguiente;
+            } else if (ptr1->dato < ptr2->dato) {
+                ptr1 = ptr1->siguiente;
+            } else {
+                ptr2 = ptr2->siguiente;
+            }
+        }
+
+        return result;
+    }
+
+    std::vector<int> intersect(const std::vector<int>& list1, const std::vector<int>& list2) {
+        std::vector<int> result;
+        int i = 0, j = 0;
+
+        while (i < list1.size() && j < list2.size()) {
+            if (list1[i] == list2[j]) {
+                result.push_back(list1[i]);
+                i++;
+                j++;
+            } else if (list1[i] < list2[j]) {
+                i++;
+            } else {
+                j++;
+            }
+        }
+
+        return result;
+    }
+
 };
 
 
@@ -150,6 +204,7 @@ public:
         }
     }
     */
+
 
 int main() {
     List<int> myfirstlist;
