@@ -1,6 +1,8 @@
 //
 // Created by luisr on 11/09/2024.
 //
+
+/*
 #include <iostream>
 using namespace std;
 
@@ -62,7 +64,7 @@ element front(queue *q){
 }
 
 
-/*
+
  int main() {
     queue q;
     q.front = 0;  // Inicializamos el front

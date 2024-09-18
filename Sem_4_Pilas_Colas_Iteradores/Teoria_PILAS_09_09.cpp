@@ -1,6 +1,8 @@
 //
 // Created by luisr on 9/09/2024.
 //
+
+/*
 #include <iostream>
 #include <string>
 using namespace std;
@@ -90,7 +92,7 @@ bool esBalanceada(string expr){
     return isEmpty(&pila); // Si la pila esta vacia significa que hubo emparejamiento perfecto
 }
 
-/*
+
 int main() {
     stack s;
     s.top = -1;  // Inicializamos la pila vacía

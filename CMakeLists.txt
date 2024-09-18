@@ -9,4 +9,5 @@ add_executable(Algoritmos_y_Estructura_de_Datos main.cpp
         Sem2_Listas_Enlazadas_Simples/Lab1_27_08.cpp
         Sem_4_Pilas_Colas_Iteradores/Teoria_PILAS_09_09.cpp
         Sem_4_Pilas_Colas_Iteradores/Teoria_COLAS_09_09.cpp
-        Sem_4_Pilas_Colas_Iteradores/Teoria_COLAS_CIRCULARES_09_09.cpp)
+        Sem_4_Pilas_Colas_Iteradores/Teoria_COLAS_CIRCULARES_09_09.cpp
+        Sem_5_Tablas_Hash/Teoria_HashTable_16_09.cpp)

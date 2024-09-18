@@ -1,6 +1,8 @@
 //
 // Created by luisr on 9/09/2024.
 //
+
+/*
 #include <iostream>
 using namespace std;
 
@@ -65,7 +67,7 @@ element front(queue *q){
     return q -> list[q -> front];
 }
 
-/*
+
 int main() {
     queue q;
     q.front = -1;  // Inicializamos front como vacía
