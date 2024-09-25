@@ -60,7 +60,11 @@
 				5,
 				6,
 				7,
-				8
+				8,
+				9,
+				10,
+				11,
+				12
 			]
 		}
 	],
@@ -105,7 +109,11 @@
 				5,
 				6,
 				7,
-				8
+				8,
+				9,
+				10,
+				11,
+				12
 			]
 		}
 	],
@@ -163,6 +171,30 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "Sem_6_BST_ArbolBinario/Teoria_23_09.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Sem_6_BST_ArbolBinario/forwardlist_to_bst.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Sem_6_BST_ArbolBinario/array_to_bst.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Sem_6_BST_ArbolBinario/validate_BST.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "Sem_6_BST_ArbolBinario/BST_iterator.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

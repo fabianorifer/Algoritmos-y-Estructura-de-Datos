@@ -11,4 +11,8 @@ add_executable(Algoritmos_y_Estructura_de_Datos main.cpp
         Sem_4_Pilas_Colas_Iteradores/Teoria_COLAS_09_09.cpp
         Sem_4_Pilas_Colas_Iteradores/Teoria_COLAS_CIRCULARES_09_09.cpp
         Sem_5_Tablas_Hash/Teoria_HashTable_16_09.cpp
-        Sem_6_BST_ArbolBinario/Teoria_23_09.cpp)
+        Sem_6_BST_ArbolBinario/Teoria_23_09.cpp
+        Sem_6_BST_ArbolBinario/forwardlist_to_bst.cpp
+        Sem_6_BST_ArbolBinario/array_to_bst.cpp
+        Sem_6_BST_ArbolBinario/validate_BST.cpp
+        Sem_6_BST_ArbolBinario/BST_iterator.cpp)
