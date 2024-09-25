@@ -97,6 +97,12 @@ build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_5_Tablas_Hash/Teoria_H
   OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
   OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\Sem_5_Tablas_Hash
 
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_6_BST_ArbolBinario/Teoria_23_09.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/Sem_6_BST_ArbolBinario/Teoria_23_09.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\Sem_6_BST_ArbolBinario\Teoria_23_09.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\Sem_6_BST_ArbolBinario
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Algoritmos_y_Estructura_de_Datos
@@ -105,7 +111,7 @@ build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_5_Tablas_Hash/Teoria_H
 #############################################
 # Link the executable Algoritmos_y_Estructura_de_Datos.exe
 
-build Algoritmos_y_Estructura_de_Datos.exe: CXX_EXECUTABLE_LINKER__Algoritmos_y_Estructura_de_Datos_Debug CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/main.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem2_Listas_Enlazadas_Simples/Teoria_26_08.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_3_Listas_Dobles/Teoria_02_08.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem2_Listas_Enlazadas_Simples/Lab1_27_08.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_4_Pilas_Colas_Iteradores/Teoria_PILAS_09_09.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_4_Pilas_Colas_Iteradores/Teoria_COLAS_09_09.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_4_Pilas_Colas_Iteradores/Teoria_COLAS_CIRCULARES_09_09.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_5_Tablas_Hash/Teoria_HashTable_16_09.cpp.obj
+build Algoritmos_y_Estructura_de_Datos.exe: CXX_EXECUTABLE_LINKER__Algoritmos_y_Estructura_de_Datos_Debug CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/main.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem2_Listas_Enlazadas_Simples/Teoria_26_08.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_3_Listas_Dobles/Teoria_02_08.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem2_Listas_Enlazadas_Simples/Lab1_27_08.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_4_Pilas_Colas_Iteradores/Teoria_PILAS_09_09.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_4_Pilas_Colas_Iteradores/Teoria_COLAS_09_09.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_4_Pilas_Colas_Iteradores/Teoria_COLAS_CIRCULARES_09_09.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_5_Tablas_Hash/Teoria_HashTable_16_09.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_6_BST_ArbolBinario/Teoria_23_09.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir

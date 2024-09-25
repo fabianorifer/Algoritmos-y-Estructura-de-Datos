@@ -2,6 +2,7 @@
 // Created by luisr on 27/08/2024.
 //
 
+/*
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -195,7 +196,6 @@ public:
 
 
 
-    /*
     void recorrer(){
         Nodo<T> *temp = head;
         while(temp != nullptr){
