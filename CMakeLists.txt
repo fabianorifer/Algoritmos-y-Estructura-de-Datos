@@ -15,4 +15,6 @@ add_executable(Algoritmos_y_Estructura_de_Datos main.cpp
         Sem_6_BST_ArbolBinario/forwardlist_to_bst.cpp
         Sem_6_BST_ArbolBinario/array_to_bst.cpp
         Sem_6_BST_ArbolBinario/validate_BST.cpp
-        Sem_6_BST_ArbolBinario/BST_iterator.cpp)
+        Sem_6_BST_ArbolBinario/BST_iterator.cpp
+        Sem_7_AVL_Tree/Teoria_30_09.cpp
+        Sem_7_AVL_Tree/node.h)

@@ -1,6 +1,7 @@
 //
 // Created by luisr on 25/09/2024.
 //
+/*
 class Solution {
 public:
     bool isValidBST(TreeNode* root) {
@@ -22,3 +23,4 @@ private:
         return validate(node->left, minNode, node) && validate(node->right, node, maxNode);
     }
 };
+*/

@@ -1,6 +1,7 @@
 //
 // Created by luisr on 25/09/2024.
 //
+/*
 class BSTIterator {
 public:
     // Pila para almacenar los nodos
@@ -36,3 +37,4 @@ private:
         }
     }
 };
+*/
