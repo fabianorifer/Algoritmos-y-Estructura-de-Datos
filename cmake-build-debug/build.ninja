@@ -133,6 +133,222 @@ build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_7_AVL_Tree/Teoria_30_0
   OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
   OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\Sem_7_AVL_Tree
 
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Grafos/Grafos.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/Grafos/Grafos.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\Grafos\Grafos.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\Grafos
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/ArbolBinario/ArbolBinario.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/ArbolBinario/ArbolBinario.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\ArbolBinario\ArbolBinario.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\ArbolBinario
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Recorridos/BFS.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/Recorridos/BFS.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\Recorridos\BFS.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\Recorridos
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Recorridos/DFS.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/Recorridos/DFS.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\Recorridos\DFS.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\Recorridos
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/CaminoMinimos/BellmanFord.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/CaminoMinimos/BellmanFord.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\CaminoMinimos\BellmanFord.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\CaminoMinimos
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/CaminoMinimos/FloydWarshall.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/CaminoMinimos/FloydWarshall.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\CaminoMinimos\FloydWarshall.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\CaminoMinimos
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/MST/Prim.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/MST/Prim.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\MST\Prim.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\MST
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/MST/Kruskal.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/MST/Kruskal.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\MST\Kruskal.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\MST
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Tries/Tries.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/Tries/Tries.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\Tries\Tries.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\Tries
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/ArbolesB/ArbolB+.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/ArbolesB/ArbolB+.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\ArbolesB\ArbolB+.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\ArbolesB
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/ArbolesB/ArbolB.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/ArbolesB/ArbolB.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\ArbolesB\ArbolB.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\ArbolesB
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/SparseMatrix/SparseMatrix.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/SparseMatrix/SparseMatrix.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\SparseMatrix\SparseMatrix.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\SparseMatrix
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Algoritmos/A+.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/Algoritmos/A+.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\Algoritmos\A+.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\Algoritmos
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Algoritmos/OrdenamientoTopologico.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/Algoritmos/OrdenamientoTopologico.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\Algoritmos\OrdenamientoTopologico.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\Algoritmos
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/CaminoMinimos/Djikstra.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/CaminoMinimos/Djikstra.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\CaminoMinimos\Djikstra.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\CaminoMinimos
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/ArbolBinario/InOrder.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/ArbolBinario/InOrder.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\ArbolBinario\InOrder.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\ArbolBinario
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/ArbolBinario/PostOrder.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/ArbolBinario/PostOrder.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\ArbolBinario\PostOrder.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\ArbolBinario
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/NetworkDelayTime.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/tmy0909/NetworkDelayTime.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909\NetworkDelayTime.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/Detect_Negative_Cycle_in_Graph_.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/tmy0909/Detect$ Negative$ Cycle$ in$ Graph$ .cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909\Detect_Negative_Cycle_in_Graph_.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/NumeroIslas.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/tmy0909/NumeroIslas.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909\NumeroIslas.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/ClonarGraph.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/tmy0909/ClonarGraph.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909\ClonarGraph.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/PlanEstudios.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/tmy0909/PlanEstudios.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909\PlanEstudios.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/EscaleraPalabras.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/tmy0909/EscaleraPalabras.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909\EscaleraPalabras.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/GrafoArbolValido.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/tmy0909/GrafoArbolValido.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909\GrafoArbolValido.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/CaminoMasCortoMatrizBinaria.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/tmy0909/CaminoMasCortoMatrizBinaria.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909\CaminoMasCortoMatrizBinaria.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/DiccionarioAlienigena.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/tmy0909/DiccionarioAlienigena.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909\DiccionarioAlienigena.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/MinimumHeightTrees.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/tmy0909/MinimumHeightTrees.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909\MinimumHeightTrees.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/AllPathToTarget.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/tmy0909/AllPathToTarget.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909\AllPathToTarget.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/EsBipartito.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/tmy0909/EsBipartito.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909\EsBipartito.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/ConexionRedundante.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/tmy0909/ConexionRedundante.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909\ConexionRedundante.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/JuezDelPueblo.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/tmy0909/JuezDelPueblo.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909\JuezDelPueblo.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/CiudadZero.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/tmy0909/CiudadZero.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909\CiudadZero.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/CaminoCortoNoPonderado.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/tmy0909/CaminoCortoNoPonderado.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909\CaminoCortoNoPonderado.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/CicloGrafoDirigido.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/tmy0909/CicloGrafoDirigido.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909\CicloGrafoDirigido.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/NodosAlcanzablesFuente.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/tmy0909/NodosAlcanzablesFuente.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909\NodosAlcanzablesFuente.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909
+
+build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/CicloGrafoNodirigido.cpp.obj: CXX_COMPILER__Algoritmos_y_Estructura_de_Datos_unscanned_Debug C$:/Users/luisr/CLionProjects/Algoritmos_y_Estructura_de_Datos/tmy0909/CicloGrafoNodirigido.cpp || cmake_object_order_depends_target_Algoritmos_y_Estructura_de_Datos
+  DEP_FILE = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909\CicloGrafoNodirigido.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir\tmy0909
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Algoritmos_y_Estructura_de_Datos
@@ -141,7 +357,7 @@ build CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_7_AVL_Tree/Teoria_30_0
 #############################################
 # Link the executable Algoritmos_y_Estructura_de_Datos.exe
 
-build Algoritmos_y_Estructura_de_Datos.exe: CXX_EXECUTABLE_LINKER__Algoritmos_y_Estructura_de_Datos_Debug CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/main.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem2_Listas_Enlazadas_Simples/Teoria_26_08.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_3_Listas_Dobles/Teoria_02_08.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem2_Listas_Enlazadas_Simples/Lab1_27_08.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_4_Pilas_Colas_Iteradores/Teoria_PILAS_09_09.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_4_Pilas_Colas_Iteradores/Teoria_COLAS_09_09.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_4_Pilas_Colas_Iteradores/Teoria_COLAS_CIRCULARES_09_09.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_5_Tablas_Hash/Teoria_HashTable_16_09.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_6_BST_ArbolBinario/Teoria_23_09.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_6_BST_ArbolBinario/forwardlist_to_bst.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_6_BST_ArbolBinario/array_to_bst.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_6_BST_ArbolBinario/validate_BST.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_6_BST_ArbolBinario/BST_iterator.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_7_AVL_Tree/Teoria_30_09.cpp.obj
+build Algoritmos_y_Estructura_de_Datos.exe: CXX_EXECUTABLE_LINKER__Algoritmos_y_Estructura_de_Datos_Debug CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/main.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem2_Listas_Enlazadas_Simples/Teoria_26_08.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_3_Listas_Dobles/Teoria_02_08.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem2_Listas_Enlazadas_Simples/Lab1_27_08.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_4_Pilas_Colas_Iteradores/Teoria_PILAS_09_09.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_4_Pilas_Colas_Iteradores/Teoria_COLAS_09_09.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_4_Pilas_Colas_Iteradores/Teoria_COLAS_CIRCULARES_09_09.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_5_Tablas_Hash/Teoria_HashTable_16_09.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_6_BST_ArbolBinario/Teoria_23_09.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_6_BST_ArbolBinario/forwardlist_to_bst.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_6_BST_ArbolBinario/array_to_bst.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_6_BST_ArbolBinario/validate_BST.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_6_BST_ArbolBinario/BST_iterator.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Sem_7_AVL_Tree/Teoria_30_09.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Grafos/Grafos.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/ArbolBinario/ArbolBinario.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Recorridos/BFS.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Recorridos/DFS.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/CaminoMinimos/BellmanFord.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/CaminoMinimos/FloydWarshall.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/MST/Prim.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/MST/Kruskal.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Tries/Tries.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/ArbolesB/ArbolB+.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/ArbolesB/ArbolB.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/SparseMatrix/SparseMatrix.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Algoritmos/A+.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/Algoritmos/OrdenamientoTopologico.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/CaminoMinimos/Djikstra.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/ArbolBinario/InOrder.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/ArbolBinario/PostOrder.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/NetworkDelayTime.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/Detect_Negative_Cycle_in_Graph_.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/NumeroIslas.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/ClonarGraph.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/PlanEstudios.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/EscaleraPalabras.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/GrafoArbolValido.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/CaminoMasCortoMatrizBinaria.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/DiccionarioAlienigena.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/MinimumHeightTrees.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/AllPathToTarget.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/EsBipartito.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/ConexionRedundante.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/JuezDelPueblo.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/CiudadZero.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/CaminoCortoNoPonderado.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/CicloGrafoDirigido.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/NodosAlcanzablesFuente.cpp.obj CMakeFiles/Algoritmos_y_Estructura_de_Datos.dir/tmy0909/CicloGrafoNodirigido.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Algoritmos_y_Estructura_de_Datos.dir

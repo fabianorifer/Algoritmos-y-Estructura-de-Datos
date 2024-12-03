@@ -1,3 +1,5 @@
+
+/*
 #include <iostream>
 using namespace std;
 
@@ -123,7 +125,7 @@ public:
         delete[] ocupado;
     }
 };
-/*
+
 int main() {
     // Inicializamos la tabla hash con tamaño 7, primo 11, a=2, b=3
     TablaHash tabla(7, 11, 2, 3);

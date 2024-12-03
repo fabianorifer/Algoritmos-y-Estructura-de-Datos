@@ -180,21 +180,6 @@ public:
         return result;
     }
 
-};
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     void recorrer(){
         Nodo<T> *temp = head;
@@ -203,9 +188,11 @@ public:
             temp = temp -> siguiente;
         }
     }
-    */
+};
 
-/*
+
+
+
 int main() {
     List<int> myfirstlist;
     myfirstlist.push_front(1);

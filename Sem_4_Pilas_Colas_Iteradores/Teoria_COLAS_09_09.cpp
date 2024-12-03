@@ -2,7 +2,7 @@
 // Created by luisr on 9/09/2024.
 //
 
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -80,7 +80,7 @@ int main() {
 
     // Verificamos si la cola está vacía al inicio
     if (isEmpty(&q)) {
-        cout << "La cola está vacía" << endl;
+        cout << "La cola esta vacia" << endl;
     }
 
     // Insertamos algunos elementos
@@ -97,12 +97,11 @@ int main() {
 
     // Verificamos si la cola está llena (no debería estarlo)
     if (isFull(&q)) {
-        cout << "La cola está llena" << endl;
+        cout << "La cola esta llena" << endl;
     } else {
-        cout << "La cola NO está llena" << endl;
+        cout << "La cola NO esta llena" << endl;
     }
 
     return 0;
 }
 
-*/

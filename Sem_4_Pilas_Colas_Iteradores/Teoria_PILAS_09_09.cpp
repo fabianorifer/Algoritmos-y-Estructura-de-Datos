@@ -1,7 +1,6 @@
 //
 // Created by luisr on 9/09/2024.
 //
-
 /*
 #include <iostream>
 #include <string>
@@ -104,7 +103,7 @@ int main() {
 
     // Verificamos si la pila está vacía al inicio
     if (isEmpty(&s)) {
-        cout << "La pila está vacía" << endl;
+        cout << "La pila esta vacia" << endl;
     }
 
     // Insertamos algunos elementos
@@ -127,22 +126,21 @@ int main() {
 
     // Verificamos si la pila está llena (no debería estarlo)
     if (isFull(&s)) {
-        cout << "La pila está llena" << endl;
+        cout << "La pila esta llena" << endl;
     } else {
-        cout << "La pila NO está llena" << endl;
+        cout << "La pila NO esta llena" << endl;
     }
 
     // Prueba de balanceo de paréntesis
     string expr;
-    cout << "Introduce una expresión de paréntesis: ";
+    cout << "Introduce una expresion de parentesis: ";
     cin >> expr;
 
     if (esBalanceada(expr)) {
-        cout << "La expresión está balanceada" << endl;
+        cout << "La expresion esta balanceada" << endl;
     } else {
-        cout << "La expresión NO está balanceada" << endl;
+        cout << "La expresion NO esta balanceada" << endl;
     }
 
     return 0;
-}
-*/
+}*/

@@ -1,6 +1,7 @@
 //
 // Created by luisr on 27/08/2024.
 //
+/*
 #include <iostream>
 using namespace std;
 
@@ -183,7 +184,7 @@ public:
 
 
 
-/*
+
 int main(){
     Double_List<int> list;
     list.push_front(10);
